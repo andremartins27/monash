@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monash/static/css/main.bd3e6951.css",
+    "main.js": "/monash/static/js/main.75828594.js",
+    "static/js/453.a8d70d1e.chunk.js": "/monash/static/js/453.a8d70d1e.chunk.js",
+    "static/media/logo.svg": "/monash/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/monash/index.html",
+    "main.bd3e6951.css.map": "/monash/static/css/main.bd3e6951.css.map",
+    "main.75828594.js.map": "/monash/static/js/main.75828594.js.map",
+    "453.a8d70d1e.chunk.js.map": "/monash/static/js/453.a8d70d1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd3e6951.css",
+    "static/js/main.75828594.js"
+  ]
+}
